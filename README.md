@@ -1,13 +1,9 @@
 ## Hi there 👋
 
-[![MasterHead](https://giffiles.alphacoders.com/212/212548.gif)
+![MasterHead](https://giffiles.alphacoders.com/212/212548.gif)
 <h1 align="center">Hi 👋, I'm Roxanne M. Yambao</h1>
 <h3 align="center">A passionate fullstack developer from Laguna.</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/saZMskANYroAAAAM/notebook-pc.gif"
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nozomi-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="nozomi-jpg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nozomi-jpg" alt="nozomi-jpg" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <a href="https://twitter.com/cgmroxn" target="blank"><img src="https://img.shields.io/twitter/follow/cgmroxn?logo=twitter&style=for-the-badge" alt="cgmroxn" /></a> </p>
 
@@ -35,3 +31,4 @@ img align="right" alt="Coding" width="400" src="https://media.tenor.com/saZMskAN
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nozomi-jpg&show_icons=true&locale=en" alt="nozomi-jpg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nozomi-jpg&" alt="nozomi-jpg" /></p>
+
